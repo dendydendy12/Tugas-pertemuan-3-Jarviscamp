@@ -14,5 +14,5 @@ function tampilkan_angka_genap($mulai, $akhir) {
 
 
 echo "Angka Genap dari 1 sampai 10: ";
-
+tampilkan_angka_genap(1, 10);
 ?>
